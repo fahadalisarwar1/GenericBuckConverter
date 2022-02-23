@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "buck_converter_lib")(type "KiCad")(uri "${USER_LIB}/schematic/buck_converter_lib.kicad_sym")(options "")(descr ""))
+)
